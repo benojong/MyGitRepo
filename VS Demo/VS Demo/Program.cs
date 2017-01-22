@@ -20,6 +20,8 @@ namespace VS_2010_Demo
             //1.1.5 changes
 
             //some changes
+
+            // BO changes
         }
     }
 }
