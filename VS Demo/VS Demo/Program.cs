@@ -17,11 +17,11 @@ namespace VS_2010_Demo
 
             //Change from Visual Studio 2012
 
-            //1.1.5 changes
-
             //some changes
 
             // BO changes
+
+            //1.1.5 changes
         }
     }
 }
