@@ -8,5 +8,6 @@ namespace VS_2010_Demo
     class NewClass
     {
         //Additional 1.1 changes
+        // Added more comments
     }
 }
